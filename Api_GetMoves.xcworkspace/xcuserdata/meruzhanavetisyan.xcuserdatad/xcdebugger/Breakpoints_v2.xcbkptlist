@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ED5DB960-197D-4873-88B0-2930405EECEC"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5626E4A-AC8C-4A5F-948A-751EC914F77A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Api_GetMoves/Screens/GetMove/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getMoves(page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E5626E4A-AC8C-4A5F-948A-751EC914F77A - 4e6b45fbac9a0714"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Api_GetMoves.ViewController.getMoves(page: Swift.Int) -&gt; ()"
+                  moduleName = "Api_GetMoves"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meruzhanavetisyan/Desktop/Api_GetMoves/Api_GetMoves/Screens/GetMove/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "E5626E4A-AC8C-4A5F-948A-751EC914F77A - 69ead1286211161a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;Api_GetMoves.MoveResalut&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Api_GetMoves.ViewController.getMoves(page: Swift.Int) -&gt; ()"
+                  moduleName = "Api_GetMoves"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meruzhanavetisyan/Desktop/Api_GetMoves/Api_GetMoves/Screens/GetMove/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "153">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9D3669D-30AB-458C-98AE-008BD483FDD3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Api_GetMoves/Screens/GetMove/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getMoves(page:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
